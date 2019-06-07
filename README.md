@@ -10,7 +10,7 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 * Full support of Bootstrap's JavaScript plugins.
 * Supports all features of Github Pages and Jekyll.
 
-[See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
+[See the website for demonstration and documentation](https://matty-plumski.github.io/bootstrap-4-github-pages/).
 
 ## Contribution
 
